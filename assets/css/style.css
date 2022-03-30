@@ -1,0 +1,16 @@
+header{
+    display:flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+}
+
+section{
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
